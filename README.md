@@ -1,2 +1,2 @@
 # travelIndia
-this is the code for my a tours and travel website called TravelIndia 
+this is the repository for my  tours and travel website called TravelIndia 
