@@ -15,7 +15,7 @@
 
 *::selection{
   background:var(--anycolor);
-  color:#fff;
+  color:#fffcfc;
 }
 
 html{
